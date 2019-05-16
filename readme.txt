@@ -1,4 +1,4 @@
-Project Report
+Project Report (Implemented using codeigniter)
 SayitRight Website
  The purpose of this project, is to implement the sayitright website.
  The website scenario is represented below:
